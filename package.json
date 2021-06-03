@@ -1,0 +1,17 @@
+{
+  "name": "api-mockeada",
+  "version": "0.0.0",
+  "description": "ApiMockeada",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "swagger": "^0.7.5",
+    "swagger-router": "^0.7.4"
+  }
+}
