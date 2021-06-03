@@ -1,7 +1,7 @@
 const express = require('express')
 var axios = require('axios')
 const app = express()
-const port = process.env.PORT || 3003
+const port = process.env.PORT || 8080
 const { check, validationResult } = require('express-validator');
 
 app.use(express.json())
